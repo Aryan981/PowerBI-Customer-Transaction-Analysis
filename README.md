@@ -11,6 +11,8 @@ The project consists of two main dashboards:
 Visualizes transaction revenue, total interest, and transaction counts.
 Breaks down expenditure types, card categories, and transaction modes (Swipe, Chip, Online).
 Analyzes revenue and transaction volume trends across different quarters.
+
+
 👥 Credit Card Customer Report:
 Focuses on customer demographics and behavior.
 Displays revenue distribution by age, gender, education, income group, and marital status.
