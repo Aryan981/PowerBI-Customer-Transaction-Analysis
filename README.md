@@ -29,6 +29,8 @@ Data Analysis: Revenue trends, customer segmentation, and transaction behavior
 Download the .pbix file from this repository.
 Open it in Power BI Desktop to explore and interact with the dashboards.
 Apply filters and slicers to derive insights from different perspectives.
+
+
 🖼 Screenshots
 
 ![WhatsApp Image 2025-03-10 at 00 11 03 (1)](https://github.com/user-attachments/assets/1f44ac41-31c3-4fc5-847a-4d554fe1effb)
