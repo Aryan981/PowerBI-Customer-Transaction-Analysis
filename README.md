@@ -31,7 +31,10 @@ Open it in Power BI Desktop to explore and interact with the dashboards.
 Apply filters and slicers to derive insights from different perspectives.
 🖼 Screenshots
 
-![WhatsApp Image 2025-03-10 at 00 11 03 (1)](https://github.com/user-attachments/assets/1069d08c-6279-4ff8-abaa-1c6f6012f007)
+![WhatsApp Image 2025-03-10 at 00 11 03 (1)](https://github.com/user-attachments/assets/1f44ac41-31c3-4fc5-847a-4d554fe1effb)
+
+![WhatsApp Image 2025-03-10 at 00 11 03](https://github.com/user-attachments/assets/bed1ba18-0a78-423e-82c0-12b6003fc34d)
 
 
-![WhatsApp Image 2025-03-10 at 00 11 03](https://github.com/user-attachments/assets/27da0f4e-95a7-4bb1-8dff-9bd279fcf9f4)
+
+
